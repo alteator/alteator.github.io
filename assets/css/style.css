@@ -369,14 +369,14 @@ label {
 }
 /*	Header	==================================================*/
 #header {
-	box-shadow:0 0 5px rgba(0,0,0,.05);
+	box-shadow:0 0 5px rgba(0,0,0);
 	-webkit-box-shadow:0 0 5px rgba(0,0,0,.05);
 	-moz-box-shadow: 0 0 5px rgba(0,0,0,.05);
 }
 /*	Parallax Background	==================================================*/
 #parallax {
 	height:100%;
-	width:100%;
+	width:60%;
 	top:0;
 	position:fixed;
 	background-image:url(http://unsplash.it/1600/600?random=1);
