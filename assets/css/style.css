@@ -376,7 +376,7 @@ label {
 /*	Parallax Background	==================================================*/
 #parallax {
 	height:100%;
-	width:60%;
+	width:100%;
 	top:0;
 	position:fixed;
 	background-image:url(http://unsplash.it/1600/600?random=1);
