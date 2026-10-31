@@ -370,8 +370,8 @@ label {
 /*	Header	==================================================*/
 #header {
 	box-shadow:0 0 5px rgba(0,0,0);
-	-webkit-box-shadow:0 0 5px rgba(0,0,0,.05);
-	-moz-box-shadow: 0 0 5px rgba(0,0,0,.05);
+	-webkit-box-shadow:0 0 5px rgba(0,0,0,.0);
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,.0);
 }
 /*	Parallax Background	==================================================*/
 #parallax {
